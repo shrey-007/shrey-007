@@ -57,13 +57,12 @@
 **🎬 AI Movie Recommendation & Streaming**
 `Spring Boot` `RabbitMQ` `MongoDB` `Docker` `AWS` `OAuth2`
 
-ML model trained on 5000+ movies with 95% recommendation accuracy. RESTful API handling 500+ req/day, async via RabbitMQ (−40% response time), chunked video streaming (−30% buffering), deployed on AWS with Auto Scaling + CloudWatch. CI/CD via Jenkins. 90%+ code coverage with SonarQube.
+Developed and deployed an AI-powered movie recommendation and streaming platform using Spring Boot, RabbitMQ, Docker, and AWS. Improved recommendation latency through asynchronous processing, optimized chunked video streaming, and implemented scalable, secure cloud deployment with CI/CD.
 
 **🏥 Patient Fall Detection & Monitoring**
 `Python` `Arduino` `Redis` `Accelerometer`
 
-Real-time hospital monitoring system — fused camera-based AI detection with accelerometer motion analysis for cross-verification, reducing false positives. Handled full hardware-software integration in a team of 10.
-
+Developed a real-time hospital patient monitoring system, integrating camera-based AI fall detection with accelerometer sensor data. Led the hardware-software integration layer, enabling reliable cross-verification to reduce false positives.
 ---
 
 ## 📊 GitHub Stats

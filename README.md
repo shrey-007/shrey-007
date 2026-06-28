@@ -63,6 +63,7 @@ Developed and deployed an AI-powered movie recommendation and streaming platform
 `Python` `Arduino` `Redis` `Accelerometer`
 
 Developed a real-time hospital patient monitoring system, integrating camera-based AI fall detection with accelerometer sensor data. Led the hardware-software integration layer, enabling reliable cross-verification to reduce false positives.
+
 ---
 
 ## 📊 GitHub Stats

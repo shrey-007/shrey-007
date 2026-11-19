@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=9999999&color=00FF41&&center=true&vCenter=true&width=600&lines=Hello,+I+am+Shrey+Saxena)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=9999999&color=00FF41&&center=true&vCenter=true&width=600&lines=Hello,+I+am+Shrey)
 
 <br/>
 
